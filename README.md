@@ -1,4 +1,4 @@
-Realtime Chat Application A feature-rich, real-time chat application with private messaging, group chats, media sharing, and user authentication.
+#Realtime Chat Application A feature-rich, real-time chat application with private messaging, group chats, media sharing, and user authentication.
 
 Table of Contents
 
