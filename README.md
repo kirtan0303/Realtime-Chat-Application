@@ -1,7 +1,10 @@
-Realtime Chat Application
-Overview
+#Realtime Chat Application
+
+##Overview
+
 This is a Realtime Chat Application that allows users to communicate instantly through text messages in chat rooms. The application supports multiple users, real-time messaging, and a responsive user interface. It is built using a full-stack development approach with modern technologies for both the frontend and backend.
-Features
+
+###Features
 
 Real-time Messaging: Instant message delivery using WebSocket technology.
 Multiple Chat Rooms: Users can join or create chat rooms.
